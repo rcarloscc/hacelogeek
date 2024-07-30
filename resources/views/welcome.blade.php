@@ -71,7 +71,7 @@ Get started
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
 <span class="ml-4"> Export up to 24 months data</span></li></ul>
 <a href="#_" class="inline-flex items-center justify-center w-full px-6 py-3 mt-8 text-center text-[#191b39] transition duration-200 ease-in-out transform bg-white border-2 border-[#191b39] hover:border-[#191b39] shadow-[4px_4px_#191b39] hover:shadow-none hover:text-[#191b39] focus:outline-none">Get started</a></div></div></div></div></section><section class="text-gray-700 bg-white body-font"><div class="container flex flex-col items-center px-8 py-8 mx-auto max-w-7xl sm:flex-row">
-<a href="https:/hacelogeek.com" class="text-xl font-black leading-none text-gray-900 select-none logo">HaceloGeek<span class="text-indigo-600">.</span></a><p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0">© 2024 HaceloGeek - Una marca del grupo GeekMinds Ltd.</p>
+<a href="https:/hacelogeek.com" class="text-xl font-black leading-none text-gray-900 select-none logo">HaceloGeek<span class="text-indigo-600">.</span></a><p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0">© 2024 HaceloGeek - Una marca del grupo Innovaciones Geek S.A.</p>
 <span class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
 <a href="#" class="text-gray-400 hover:text-gray-500">
 <span class="sr-only">Facebook</span>
