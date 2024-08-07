@@ -268,8 +268,8 @@
                 <img class="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-011.png" alt="" data-rounded="rounded-lg" data-rounded-max="rounded-full">
             </div>
             <div class="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
-                <p class="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase" data-primary="indigo-600">contabilidad - crm - proyectos&nbsp;</p>
-                <h3 class="mt-2 text-2xl sm:text-left md:text-4xl">Un ERP que integra todo</h3>
+                <h3 class="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase" data-primary="indigo-600">contabilidad - crm - proyectos&nbsp;</h3>
+                <p class="mt-2 text-2xl sm:text-left md:text-4xl">Un ERP que integra todo</p>
                 <p class="mt-5 text-lg text-gray-700 text md:text-left">Controla todo tu aspecto comercial desde un solo lugar, la contabilidad general de tu negocio, cuentas de bancos, sucursales, adminsitración de leads y desarrollo de proyectos controlado desde un solo sistema.</p>
             </div>
         </div>
@@ -278,8 +278,8 @@
                 <img class="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-04.png" alt="" data-rounded="rounded-lg" data-rounded-max="rounded-full">
             </div>
             <div class="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pl-16">
-                <p class="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase" data-primary="indigo-600">recursos humanos - fabricación - reparaciones</p>
-                <h3 class="mt-2 text-2xl sm:text-left md:text-4xl">Planillas, recetas y ordenes de trababjo</h3>
+                <h3 class="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase" data-primary="indigo-600">recursos humanos - fabricación - reparaciones</h3>
+                <p class="mt-2 text-2xl sm:text-left md:text-4xl">Planillas, recetas y ordenes de trababjo</p>
                 <p class="mt-5 text-lg text-gray-700 text md:text-left">Con un sistema que te permite llevar todo lo que necesitas desde el origen, no necesitas buscar más soluciones, Controla ingresos y salidas, vacaciones y pagos, Genera ordenes de trabajo para tu producción con base en recetas y más al mismo tiempo que puedes llevar control de las ordenes de trabajo de tu negocio.</p>
             </div>
         </div>
@@ -288,8 +288,8 @@
                 <img class="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-03.png" alt="" data-rounded="rounded-lg" data-rounded-max="rounded-full">
             </div>
             <div class="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
-                <p class="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase" data-primary="indigo-600">Para HOteles y Restaurantes</p>
-                <h3 class="mt-2 text-2xl sm:text-left md:text-4xl">Reservaciones y fuerza de trabajo</h3>
+                <h3 class="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase" data-primary="indigo-600">Para Hoteles y Restaurantes</h3>
+                <p class="mt-2 text-2xl sm:text-left md:text-4xl">Reservaciones y fuerza de trabajo</p>
                 <p class="mt-5 text-lg text-gray-700 text md:text-left">No pierdas una cita, reserva, llamada o visita tecnica, dale seguimiento, asignala al personal necesario y visualiza todo con un click. Ofrece seguimiento a tu ocupación en el hotel y los servicios extras que puedes ofrecer desde un solo lugar.</p>
             </div>
         </div>
