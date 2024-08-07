@@ -29,7 +29,12 @@ Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-farmacias-
 Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-aceiteras-guatemala-honduras-y-el-salvador', function () {
     return view('fel-aceiteras');
 });
+
 Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-tiendas-guatemala-honduras-y-el-salvador', function () {
     return view('fel-tiendas');
+});
+
+Route::get('/combos-equipo-para-puntos-de-venta-con-facturación-electronica-fel-ilimitada', function () {
+    return view('combos-tiendas');
 });
 
