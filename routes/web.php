@@ -6,6 +6,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/registrate', function () {
+    return view('registrate');
+});
+
 Route::get('/servicios', function () {
     return view('servicios');
 });
