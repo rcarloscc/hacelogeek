@@ -93,45 +93,6 @@
     
 </head>
 <body>
-    <section class="w-full bg-yellow-50">
-        <div class="px-6 mx-auto max-w-7xl">
-            <div class="flex items-center justify-between h-20">
-                <div class="relative z-10 flex items-center w-auto px-0 leading-10 md:px-2 lg:flex-grow-0 lg:flex-shrink-0 lg:text-left xl:mt-10">
-                    <a href="#_" class="inline-block font-sans text-2xl font-extrabold text-left text-black no-underline bg-transparent cursor-pointer focus:no-underline">
-                    <img src="https://cdn.devdojo.com/tails/images/5WJ2AO6GyucWP19R3aw6mx3b69Tpom0BzlORH7YR.png" alt="#HaceloGeek" class="xl:mt-6">
-                    </a>
-                </div>
-                <div class="flex items-center space-x-8">
-                    <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Punto de Venta</a>
-                    <a href="https://wa.me/50222681230" class="px-4 py-2 font-bold text-white bg-gray-900 rounded-md" data-rounded="rounded-md" data-primary="gray-900">Contactanos</a>
-                </div>
-            </div>
-
-            <div class="flex flex-col flex-wrap w-full px-10 pt-24 pb-40 mx-auto leading-6 text-left text-black lg:flex-row">
-                <div class="box-border relative w-full px-4 text-black lg:w-6/12">
-                    <p class="pt-4 mx-auto mb-4 text-4xl font-black leading-tight text-left text-gray-900 xl:pt-6 sm:text-5xl lg:text-4xl xl:text-5xl">Soluciones <span class="">Geek</span> para todo!</p>
-                    <p class="pt-3 mb-2 mr-12 text-xl font-normal leading-relaxed text-left text-gray-900 lg:mb-4 xl:pt-5 sm:text-2xl lg:text-xl xl:text-2xl"></p><div class=""></div>Suministros de punto de venta, Sistemas de control de Inventarios y Facturación, para Hoteles, Restaurantes, Farmacias, Ferreterías, Kioskos y Tiendas de Punto de Venta —Buscando innnovar...&nbsp;<span class="" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder;">#HaceloGeek</span><p></p><p></p>
-                    <div class="pt-5 space-y-3 space-y-4 leading-6 text-left xl:pt-8 xl:space-y-5">
-                        <div class="relative inline-block">
-                            <div class="w-full h-full bg-gray-900 ml-0.5 mt-0.5 rounded-lg absolute left-0 top-0" data-rounded="rounded-lg" data-primary="gray-900"></div>
-                            <a class="relative inline-block px-5 py-2 text-lg font-bold text-center text-gray-900 no-underline whitespace-no-wrap align-middle bg-white border-2 border-gray-900 border-solid rounded-md shadow-xs cursor-pointer select-none hover:bg-white hover:shadow-xs hover:text-gray-900 focus:shadow-xs" data-rounded="rounded-md" data-primary="gray-900" href="https://wa.me/50222681230">Escribenos hoy para conocer más</a>
-                        </div>
-                        <p class="pt-6 mb-2 text-sm font-bold text-left text-gray-900">Soluciones en Facturación Electrónica en Línea, FEL para Guatemala, El Salvador, Panama y Republica Dominicana.</p>
-
-                        <!-- Logos -->
-                        
-
-
-                    </div>
-                </div>
-                <div class="relative flex-1 w-full pt-6 text-black lg:pt-12 lg:pl-12 lg:w-6/12">
-                    <!-- Start of Image -->
-                    <img alt="Cafe y Geek Sistema Asegurado!" src="https://cdn.devdojo.com/images/january2021/hero-character.png" class="w-full">
-                    <!-- End of Image -->
-                </div>
-            </div>
-        </div>
-    </section>
     <section class="relative py-2 bg-yellow-50" data-primary="yellow-500" data-tails-scripts="//unpkg.com/alpinejs">
         <div class="flex items-center justify-between h-20 px-8 mx-auto max-w-7xl">
 
@@ -189,6 +150,58 @@
 
         </div>
     </section>
+
+    <section class="w-full bg-yellow-50">
+        <div class="px-6 mx-auto max-w-7xl">
+            
+            <div class="flex flex-col flex-wrap w-full px-10 pt-24 pb-40 mx-auto leading-6 text-left text-black lg:flex-row">
+                <div class="box-border relative w-full px-4 text-black lg:w-6/12">
+                    <p class="pt-4 mx-auto mb-4 text-4xl font-black leading-tight text-left text-gray-900 xl:pt-6 sm:text-5xl lg:text-4xl xl:text-5xl">Soluciones <span class="">Geek</span> para todo!</p>
+                    <p class="pt-3 mb-2 mr-12 text-xl font-normal leading-relaxed text-left text-gray-900 lg:mb-4 xl:pt-5 sm:text-2xl lg:text-xl xl:text-2xl"></p><div class=""></div>Suministros de punto de venta, Sistemas de control de Inventarios y Facturación, para Hoteles, Restaurantes, Farmacias, Ferreterías, Kioskos y Tiendas de Punto de Venta —Buscando innnovar...&nbsp;<span class="" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder;">#HaceloGeek</span><p></p><p></p>
+                    <div class="pt-5 space-y-3 space-y-4 leading-6 text-left xl:pt-8 xl:space-y-5">
+                        <div class="relative inline-block">
+                            <div class="w-full h-full bg-gray-900 ml-0.5 mt-0.5 rounded-lg absolute left-0 top-0" data-rounded="rounded-lg" data-primary="gray-900"></div>
+                            <a class="relative inline-block px-5 py-2 text-lg font-bold text-center text-gray-900 no-underline whitespace-no-wrap align-middle bg-white border-2 border-gray-900 border-solid rounded-md shadow-xs cursor-pointer select-none hover:bg-white hover:shadow-xs hover:text-gray-900 focus:shadow-xs" data-rounded="rounded-md" data-primary="gray-900" href="https://wa.me/50222681230">Escribenos hoy para conocer más</a>
+                        </div>
+                        <p class="pt-6 mb-2 text-sm font-bold text-left text-gray-900">Soluciones en Facturación Electrónica en Línea, FEL para Guatemala, El Salvador, Panama y Republica Dominicana.</p>
+
+                        <!-- Logos -->
+                        
+
+
+                    </div>
+                </div>
+                <div class="relative flex-1 w-full pt-6 text-black lg:pt-12 lg:pl-12 lg:w-6/12">
+                    <!-- Start of Image -->
+                    <img alt="Cafe y Geek Sistema Asegurado!" src="https://cdn.devdojo.com/images/january2021/hero-character.png" class="w-full">
+                    <!-- End of Image -->
+                </div>
+            </div>
+        </div>
+    </section>
+<section class="w-full flex bg-gray-50">
+    <div class="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
+        <div class="text-center space-y-5">
+            
+            
+            <div class="text-center space-y-5">
+            <h2 class="text-base font-semibold text-pink-400 tracking-wide uppercase">empieza hoy el cambio a la tecnología&nbsp;</h2>
+            <div class="inline-flex items-end justify-center w-full text-center mx-auto">
+                <img src="https://cdn.devdojo.com/tails/avatars/067.jpg" class="absolute transform translate-x-24 ml-6 rounded-full w-12 h-12 md:w-16 md:h-16 border-4 border-white">
+                <img src="https://cdn.devdojo.com/tails/avatars/019.jpg" class="absolute transform -translate-x-24 -ml-6 rounded-full w-12 h-12 md:w-16 md:h-16 border-4 border-white">
+                <img src="https://cdn.devdojo.com/tails/avatars/036.jpg" class="absolute transform -translate-x-16 rounded-full w-16 h-16 md:w-20 md:h-20 border-4 border-white">
+                <img src="https://cdn.devdojo.com/tails/avatars/008.jpg" class="absolute transform translate-x-16 rounded-full w-16 h-16 md:w-20 md:h-20 border-4 border-white">
+                <img src="https://cdn.devdojo.com/tails/avatars/003.jpg" class="rounded-full w-20 h-20 md:w-24 md:h-24 border-4 border-white relative">
+            </div>
+            <p class="mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">Unete a los&nbsp;<span class="px-2 py-1 relative inline-block"><svg class="stroke-current bottom-0 absolute text-pink-400 -translate-x-2" viewBox="0 0 410 18" xmlns="http://www.w3.org/2000/svg"><path d="M6 6.4c16.8 16.8 380.8-11.2 397.6 5.602" stroke-width="11.2" fill="none" fill-rule="evenodd" stroke-linecap="round"></path></svg><span class="relative">2,838</span></span> Clientes Felices</p>
+            <p class="max-w-3xl mt-5 mx-auto text-xl text-gray-500">En la región de Guatemala, Honduras y El Salvador, hemos ayudado a mas de 2,000 clientes a la fecha a sacar el maximo provecho de sus recursos empresariales.</p>
+            <a href="https://wa.me/50222681230" class="text-white px-8 py-4 inline-block mt-5 font-medium text-lg bg-gray-900 focus:ring-4 focus:ring-gray-900 focus:ring-offset-2 rounded-xl">Escribenos y Únete hoy!</a>
+        </div><p></p>
+            
+            
+        </div>
+    </div>
+</section>
 <section class="w-full bg-white pt-7 pb-7 md:pt-20 md:pb-24">
     <h1 class="w-full text-3xl font-bold text-center sm:text-4xl md:text-5xl">Ventajas de nuestro ERP</h1>
 <p class="w-full py-8 mx-auto -mt-2 text-lg text-center text-gray-700 intro sm:max-w-3xl">Acceso en linea, estabilidad 99.9% para estar siempre dispobible, soporte 9/9 Lunes a Domingo, Equipos seleccionados minuciosamente con garantía y respaldo de grandes marcas.&nbsp;</p>
