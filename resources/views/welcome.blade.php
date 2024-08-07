@@ -96,7 +96,7 @@
     <section class="relative py-2 bg-yellow-50" data-primary="yellow-500" data-tails-scripts="//unpkg.com/alpinejs">
         <div class="flex items-center justify-between h-20 px-8 mx-auto max-w-7xl">
 
-            <a href="/" class="relative z-10 flex items-center w-auto text-2xl font-black leading-none text-gray-900 select-none"><h1>HaceloGeek.</h1></a>
+            <a href="/" class="relative z-10 flex items-center w-auto text-2xl font-black leading-none text-gray-900 select-none"><h1>#HaceloGeek.</h1></a>
 
             <nav class="items-center justify-center hidden space-x-5 text-gray-200 md:flex lg:space-x-8">
                 <a href="/" x-data="{ hover: false }" @mouseenter="hover = true" @mouseleave="hover = false" class="relative inline-block px-1 text-base font-bold text-gray-700 uppercase transition duration-150 ease hover:text-gray-900">
@@ -156,7 +156,7 @@
             
             <div class="flex flex-col flex-wrap w-full px-10 pt-24 pb-40 mx-auto leading-6 text-left text-black lg:flex-row">
                 <div class="box-border relative w-full px-4 text-black lg:w-6/12">
-                    <p class="pt-4 mx-auto mb-4 text-4xl font-black leading-tight text-left text-gray-900 xl:pt-6 sm:text-5xl lg:text-4xl xl:text-5xl">Soluciones <span class="">Geek</span> para todo!</p>
+                    <h2 class="pt-4 mx-auto mb-4 text-4xl font-black leading-tight text-left text-gray-900 xl:pt-6 sm:text-5xl lg:text-4xl xl:text-5xl">Soluciones en <span class="text-gray-400">Facturación FEL</span> para todos!</h2>
                     <p class="pt-3 mb-2 mr-12 text-xl font-normal leading-relaxed text-left text-gray-900 lg:mb-4 xl:pt-5 sm:text-2xl lg:text-xl xl:text-2xl"></p><div class=""></div>Suministros de punto de venta, Sistemas de control de Inventarios y Facturación, para Hoteles, Restaurantes, Farmacias, Ferreterías, Kioskos y Tiendas de Punto de Venta —Buscando innnovar...&nbsp;<span class="" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: bolder;">#HaceloGeek</span><p></p><p></p>
                     <div class="pt-5 space-y-3 space-y-4 leading-6 text-left xl:pt-8 xl:space-y-5">
                         <div class="relative inline-block">
@@ -313,8 +313,8 @@
     </div>
 </section><section class="text-gray-700 bg-white body-font">
     <div class="container flex flex-col items-center px-8 py-8 mx-auto max-w-7xl sm:flex-row">
-        <a href="#_" class="text-xl font-black leading-none text-gray-900 select-none logo">HaceloGeek<span class="text-indigo-600">.</span></a>
-        <p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0">© 2024 HaceloGeek - Pertenece al grupo Innovaciones Geek S.A.</p>
+        <a href="#_" class="text-xl font-black leading-none text-gray-900 select-none logo">#HaceloGeek<span class="text-indigo-600">.</span></a>
+        <p class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0">Derechos Reservados GeekMinds © 2024</p>
         <span class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
             <a href="https://www.facebook.com/hacelogeek" class="text-gray-400 hover:text-gray-500">
                 <span class="sr-only">Facebook</span>
@@ -333,7 +333,6 @@
         </span>
     </div>
 </section>
-
     <script src="//unpkg.com/alpinejs" defer></script>
 </body>
 </html>
