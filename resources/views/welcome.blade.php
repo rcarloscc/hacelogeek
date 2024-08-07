@@ -163,12 +163,8 @@
                             <div class="w-full h-full bg-gray-900 ml-0.5 mt-0.5 rounded-lg absolute left-0 top-0" data-rounded="rounded-lg" data-primary="gray-900"></div>
                             <a class="relative inline-block px-5 py-2 text-lg font-bold text-center text-gray-900 no-underline whitespace-no-wrap align-middle bg-white border-2 border-gray-900 border-solid rounded-md shadow-xs cursor-pointer select-none hover:bg-white hover:shadow-xs hover:text-gray-900 focus:shadow-xs" data-rounded="rounded-md" data-primary="gray-900" href="https://wa.me/50222681230">Escribenos hoy para conocer más</a>
                         </div>
-                        <p class="pt-6 mb-2 text-sm font-bold text-left text-gray-900">Soluciones en Facturación Electrónica en Línea, FEL para Guatemala, El Salvador, Panama y Republica Dominicana.</p>
-
+                        <h3 class="pt-6 mb-2 text-sm font-bold text-left text-gray-900">Soluciones en Facturación Electrónica en Línea, <span style="display:none">FEL </span>para Guatemala, <span style="display:none">FEL </span> El Salvador, <span style="display:none">FEL </span> Panama y <span style="display:none">FEL </span> Republica Dominicana.</h3>
                         <!-- Logos -->
-                        
-
-
                     </div>
                 </div>
                 <div class="relative flex-1 w-full pt-6 text-black lg:pt-12 lg:pl-12 lg:w-6/12">
@@ -185,7 +181,7 @@
             
             
             <div class="text-center space-y-5">
-            <h2 class="text-base font-semibold text-pink-400 tracking-wide uppercase">empieza hoy el cambio a la tecnología&nbsp;</h2>
+            <h2 class="text-base font-semibold text-pink-400 tracking-wide uppercase">Empieza hoy el cambio a la tecnología #HaceloGeek&nbsp;</h2>
             <div class="inline-flex items-end justify-center w-full text-center mx-auto">
                 <img src="https://cdn.devdojo.com/tails/avatars/067.jpg" class="absolute transform translate-x-24 ml-6 rounded-full w-12 h-12 md:w-16 md:h-16 border-4 border-white">
                 <img src="https://cdn.devdojo.com/tails/avatars/019.jpg" class="absolute transform -translate-x-24 -ml-6 rounded-full w-12 h-12 md:w-16 md:h-16 border-4 border-white">
@@ -194,7 +190,7 @@
                 <img src="https://cdn.devdojo.com/tails/avatars/003.jpg" class="rounded-full w-20 h-20 md:w-24 md:h-24 border-4 border-white relative">
             </div>
             <p class="mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">Unete a los&nbsp;<span class="px-2 py-1 relative inline-block"><svg class="stroke-current bottom-0 absolute text-pink-400 -translate-x-2" viewBox="0 0 410 18" xmlns="http://www.w3.org/2000/svg"><path d="M6 6.4c16.8 16.8 380.8-11.2 397.6 5.602" stroke-width="11.2" fill="none" fill-rule="evenodd" stroke-linecap="round"></path></svg><span class="relative">2,838</span></span> Clientes Felices</p>
-            <p class="max-w-3xl mt-5 mx-auto text-xl text-gray-500">En la región de Guatemala, Honduras y El Salvador, hemos ayudado a mas de 2,000 clientes a la fecha a sacar el maximo provecho de sus recursos empresariales.</p>
+            <p class="max-w-3xl mt-5 mx-auto text-xl text-gray-500">En la región de Guatemala, Honduras y El Salvador, hemos ayudado a mas de 2,000 clientes a la fecha a sacar el maximo provecho de sus recursos empresariales con nuestros diversos sistemas, para <b>Hoteles, Restraurantes, Kioskos, Puntos de Venta, Tiendas Supermercados</b>y muchos más</p>
             <a href="https://wa.me/50222681230" class="text-white px-8 py-4 inline-block mt-5 font-medium text-lg bg-gray-900 focus:ring-4 focus:ring-gray-900 focus:ring-offset-2 rounded-xl">Escribenos y Únete hoy!</a>
         </div><p></p>
             
@@ -216,18 +212,18 @@
         <!-- Content -->
         <div class="box-border order-first w-full text-black border-solid md:w-1/2 md:pl-10 md:order-none">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Recupera el control de tu negocio</h2>
-            <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
-                Con nuestros sistemas podrás recuperar los controles administrativos y operativos de tu negocio.</p>
+                Ordena tu negocio, manten tu información financiera a un click</h2>
+            <h3 class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
+                Con nuestros sistemas los informes administrativos y operativos de tu negocio los tienes siempre contigo</h3>
             <ul class="p-0 m-0 leading-6 border-0 border-gray-300">
                 <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span>Compras, Ventas e Inventarios.</li>
+                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span><h4 style="display:inline">Compras, Ventas e Inventarios.</h4></li>
                 <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span>Proveedores, Clientes, Créditos y pagos</li>
+                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span><h4 style="display:inline">Proveedores, Clientes, Créditos y pagos</h4></li>
                 <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span>Reservas, Manejo de Suscriptores, Cotizaciones</li>
+                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span><h4 style="display:inline">Reservas, Manejo de Suscriptores, Cotizaciones</h4></li>
                     <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span>Sucursales, Nominas, Proyectos, Fabricaciones y Reparaciones</li>
+                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span><h4 style="display:inline">Sucursales, Nominas, Proyectos, Fabricaciones y Reparaciones</h4></li>
                     
             </ul>
         </div>
@@ -238,7 +234,7 @@
         <!-- Content -->
         <div class="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Ahorra tiempo</h2>
+                Ahorra tiempo con integraciones a otros sistemas</h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-10 lg:text-lg">
                 Recupera tiempo con la fácil administración y generación de reportes en todos nuestros sistemas, que te permiten conocer tu posición frente a proveedores y clientes con un click.</p>
             <ul class="p-0 m-0 leading-6 border-0 border-gray-300">
@@ -299,7 +295,7 @@
     <div class="max-w-7xl px-10 mx-auto flex lg:flex-row flex-col items-center">
         <div class="lg:max-w-none max-w-lg lg:w-1/2 relative">
             <p class="px-3 py-2 uppercase tracking-widest text-xs text-red-500 bg-white inline rounded-full font-medium">Unete a nuestra comunidad</p>
-            <h1 class="text-5xl sm:text-6xl lg:text-7xl mt-6 font-extrabold text-white">Creando con excelencia...</h1>
+            <p class="text-5xl sm:text-6xl lg:text-7xl mt-6 font-extrabold text-white">Creando con excelencia...</p>
             <p class="text-red-100 sm:text-lg lg:max-w-md mt-7">Conoce de nuestras promociones antes que nadie, adquiere nuestros servicios con descuentos y precios especiales para nuestros contactos preferidos!</p>
             <div class="bg-black mt-7 bg-opacity-10 rounded-full relative flex items-center h-16 p-2 overflow-hidden lg:max-w-md">
                 <input type="text" class="w-full h-full focus:outline-none bg-transparent placeholder-red-200 text-blue-100 pl-7 font-medium pr-5" placeholder="Correo electrónico">
