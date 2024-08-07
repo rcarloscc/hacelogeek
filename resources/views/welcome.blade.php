@@ -96,7 +96,7 @@
     <section class="relative py-2 bg-yellow-50" data-primary="yellow-500" data-tails-scripts="//unpkg.com/alpinejs">
         <div class="flex items-center justify-between h-20 px-8 mx-auto max-w-7xl">
 
-            <a href="#_" class="relative z-10 flex items-center w-auto text-2xl font-black leading-none text-gray-900 select-none">HaceloGeek.</a>
+            <a href="/" class="relative z-10 flex items-center w-auto text-2xl font-black leading-none text-gray-900 select-none"><h1>HaceloGeek.</h1></a>
 
             <nav class="items-center justify-center hidden space-x-5 text-gray-200 md:flex lg:space-x-8">
                 <a href="/" x-data="{ hover: false }" @mouseenter="hover = true" @mouseleave="hover = false" class="relative inline-block px-1 text-base font-bold text-gray-700 uppercase transition duration-150 ease hover:text-gray-900">
