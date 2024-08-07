@@ -5,3 +5,31 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/servicios', function () {
+    return view('servicios');
+});
+
+Route::get('/servicios/facturacion-electronica-en-linea-fel-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-pos');
+});
+
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-restaurantes-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-restaurantes');
+});
+
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-hoteles-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-hoteles');
+});
+
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-farmacias-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-pos');
+});
+
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-aceiteras-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-pos');
+});
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-hoteles-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-pos');
+});
+
