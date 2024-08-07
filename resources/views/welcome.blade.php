@@ -10,7 +10,7 @@
     <meta name="robots" content="index, follow">
     <meta name="keywords" content="Facturación Electrónica, Sistema de Puntos de Venta, POS para Restaurantes, Tiendas de Conveniencia, Kioscos, Gasolineras, Aceiteras, Ventas de Repuestos, Farmacias, Supermercados, Software de Facturación">
     
-    <title>Facturación FEL | Sistema POS para Restaurantes y Tiendas - #HaceloGeek</title>
+    <title>Facturación FEL | Sistema POS para Restaurantes y Tiendas - HaceloGeek</title>
     
     <!-- Open Graph (OG) Tags -->
     <meta property="og:title" content="Facturación Electrónica | Sistema POS para Restaurantes y Tiendas">
