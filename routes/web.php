@@ -23,13 +23,13 @@ Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-hoteles-gu
 });
 
 Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-farmacias-guatemala-honduras-y-el-salvador', function () {
-    return view('fel-pos');
+    return view('fel-farmacias');
 });
 
 Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-aceiteras-guatemala-honduras-y-el-salvador', function () {
-    return view('fel-pos');
+    return view('fel-aceiteras');
 });
-Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-hoteles-guatemala-honduras-y-el-salvador', function () {
-    return view('fel-pos');
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-tiendas-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-tiendas');
 });
 
