@@ -103,13 +103,6 @@
 
             <div class="flex items-center space-x-8">
                 <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Punto de Venta</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Hoteles</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Restaurantes - FEL Ilimitado</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Farmacias - FEL Ilimitado</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Aceiteras - FEL Ilimitado</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Ventas de Repuestos - FEL Ilimitado</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">Reparaciones y Ordenes de Trabajo</a>
-                <a href="/login" class="font-bold text-gray-900" data-primary="gray-900">ChatControl y WhatsApp Bots</a>
                 <a href="https://wa.me/50222681230" class="px-4 py-2 font-bold text-white bg-gray-900 rounded-md" data-rounded="rounded-md" data-primary="gray-900">Contactanos</a>
             </div>
             
