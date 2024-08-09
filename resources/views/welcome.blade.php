@@ -171,7 +171,7 @@
                             <div class="w-full h-full bg-gray-900 ml-0.5 mt-0.5 rounded-lg absolute left-0 top-0" data-rounded="rounded-lg" data-primary="gray-900"></div>
                             <a class="relative inline-block px-5 py-2 text-lg font-bold text-center text-gray-900 no-underline whitespace-no-wrap align-middle bg-white border-2 border-gray-900 border-solid rounded-md shadow-xs cursor-pointer select-none hover:bg-white hover:shadow-xs hover:text-gray-900 focus:shadow-xs" data-rounded="rounded-md" data-primary="gray-900" href="https://wa.me/50222681230">Escribenos hoy para conocer más</a>
                         </div>
-                        <h3 class="pt-6 mb-2 text-sm font-bold text-left text-gray-900">Soluciones en Facturación Electrónica en Línea, <span style="display:none">FEL </span>para Guatemala, <span style="display:none">FEL </span> El Salvador, <span style="display:none">FEL </span> Panama y <span style="display:none">FEL </span> Republica Dominicana.</h3>
+                        <h3 class="pt-6 mb-2 text-sm font-bold text-left text-gray-900">Soluciones en Facturación Electrónica en Línea, <span style="display:none">FEL </span>para Guatemala, <span style="display:none">FEL </span> El Salvador,<span style="display:none">FEL </span> Honduras,<span style="display:none">FEL </span> Costa Rica, Chile, Uruguay, Paraguay, <span style="display:none">FEL </span> Panama y <span style="display:none">FEL </span> Republica Dominicana.</h3>
                         <!-- Logos -->
                     </div>
                 </div>
