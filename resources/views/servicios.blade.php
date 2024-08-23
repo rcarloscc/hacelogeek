@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-RJ0HLRZLDN');
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-RJ0HLRZLDN');
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +15,7 @@
     <meta name="author" content="Innovaciones Geek S.A.">
     <meta name="robots" content="index, follow">
     <meta name="keywords" content="Facturación Electrónica, Sistema de Puntos de Venta, POS para Restaurantes, Tiendas de Conveniencia, Kioscos, Gasolineras, Aceiteras, Ventas de Repuestos, Farmacias, Supermercados, Software de Facturación">
-    <title>Facturación e Invetarios EPR  Restaurantes Hoteles y Tiendas</title>
+    <title>Sistema de Control ERP con FEL Contabilidad y Modulos Avanzados</title>
        <!-- Google tag (gtag.js) -->
        <script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ0HLRZLDN"></script>
     
