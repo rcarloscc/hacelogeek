@@ -14,6 +14,10 @@ Route::get('/servicios', function () {
     return view('servicios');
 });
 
+Route::get('/combos-puntos-de-venta-facturación-electronica-fel-ilimitada', function () {
+    return view('combos');
+});
+
 Route::get('/servicios/facturacion-electronica-en-linea-fel-guatemala-honduras-y-el-salvador', function () {
     return view('fel-pos');
 });
