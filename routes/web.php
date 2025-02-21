@@ -10,6 +10,12 @@ Route::get('/registrate', function () {
     return view('pages.registrate');
 });
 
+
+Route::get('/resta', function () {
+    return view('pages.resta');
+});
+
+
 Route::get('/servicios', function () {
     return view('servicios');
 });
@@ -41,3 +47,8 @@ Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-aceiteras-
 Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-tiendas-guatemala-honduras-y-el-salvador', function () {
     return view('fel-tiendas');
 });
+
+Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-tiendas-guatemala-honduras-y-el-salvador', function () {
+    return view('fel-tiendas');
+});
+
