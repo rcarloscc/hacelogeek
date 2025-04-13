@@ -15,7 +15,7 @@
     <meta name="author" content="Innovaciones Geek S.A.">
     <meta name="robots" content="index, follow">
     <meta name="keywords" content="Facturación Electrónica, Sistema de Puntos de Venta, POS para Restaurantes, Tiendas de Conveniencia, Kioscos, Gasolineras, Aceiteras, Ventas de Repuestos, Farmacias, Supermercados, Software de Facturación">
-    
+    <meta name="facebook-domain-verification" content="j4so9anasxwtbihnpu1dl0wg64vl8r" /> 
     <title>Facturación e Invetarios EPR  Restaurantes Hoteles y Tiendas</title>
     
     <!-- Open Graph (OG) Tags -->
