@@ -52,3 +52,8 @@ Route::get('/servicios/facturacion-electronica-en-linea-fel-ilimitado-tiendas-gu
     return view('fel-tiendas');
 });
 
+
+Route::get('/politica-de-privacidad', function () {
+    return view('pages.privacidad');
+});
+
